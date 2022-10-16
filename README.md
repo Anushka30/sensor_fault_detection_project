@@ -1,1 +1,1 @@
-# sensor_fault_detection_project_1
+# sensor_fault_detection_project
